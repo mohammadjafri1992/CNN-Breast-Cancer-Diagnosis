@@ -8,7 +8,7 @@ The key challange of the problem is how to classify a tumor into malignant or be
 
 ## Problem solving approach
 
-In order to apply machine learning solution to any problem, we first need to understand the steps in which a perticular problem is solved and determine what steps might benifit from our machine learning algorithm. 
+In order to apply machine learning solution to any problem, we first need to understand the steps in which a particular problem is solved and determine what steps might benifit from our machine learning algorithm. 
 
 Not all problems can be conveniently solved using machine learning, and for critical applications like breast cancer classification, we have to make sure that our solution is good enough. One of the main problems which may hamper our use of ML solution is the availability of limited amount of data, which can cripple our output by overfitting our data to the training data. A good option to proceed in that scenario is the use of k-fold cross-validation which sliced and dices the data into k-different parts and generates training and test datasets on the go.
 
