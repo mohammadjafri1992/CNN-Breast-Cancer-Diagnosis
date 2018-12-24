@@ -15,7 +15,7 @@ Not all problems can be conveniently solved using machine learning, and for crit
 ### Using K-Fold cross-validation
 A good option to proceed in that scenario is the use of k-fold cross-validation which sliced and dices the data into k-different parts and generates training and test datasets on the go.
 
-###Limited number of hidded layers in the network.
+### Limited number of hidded layers in the network.
 Another good solution to avoid overfitting is to use a less number of hidden layers. This will produce better results on new unseen data by the ML model.
 
 I used a deep learning technique, Convolutional Neural Networks (CNN), which is primarily used for image and video processing. Video processing is one of the most common applications of CNNs as it is the "eyes and ears" of a Self-Driving Car.
