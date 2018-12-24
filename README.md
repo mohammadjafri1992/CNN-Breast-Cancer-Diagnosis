@@ -10,8 +10,13 @@ The key challange of the problem is how to classify a tumor into malignant or be
 
 In order to apply machine learning solution to any problem, we first need to understand the steps in which a particular problem is solved and determine what steps might benifit from our machine learning algorithm. 
 
-Not all problems can be conveniently solved using machine learning, and for critical applications like breast cancer classification, we have to make sure that our solution is good enough. One of the main problems which may hamper our use of ML solution is the availability of limited amount of data, which can cripple our output by overfitting our data to the training data. A good option to proceed in that scenario is the use of k-fold cross-validation which sliced and dices the data into k-different parts and generates training and test datasets on the go.
+Not all problems can be conveniently solved using machine learning, and for critical applications like breast cancer classification, we have to make sure that our solution is good enough. One of the main problems which may hamper our use of ML solution is the availability of limited amount of data, which can cripple our output by overfitting our data to the training data. 
 
+### Using K-Fold cross-validation
+A good option to proceed in that scenario is the use of k-fold cross-validation which sliced and dices the data into k-different parts and generates training and test datasets on the go.
+
+###Limited number of hidded layers in the network.
+Another good solution to avoid overfitting is to use a less number of hidden layers. This will produce better results on new unseen data by the ML model.
 
 I used a deep learning technique, Convolutional Neural Networks (CNN), which is primarily used for image and video processing. Video processing is one of the most common applications of CNNs as it is the "eyes and ears" of a Self-Driving Car.
 
