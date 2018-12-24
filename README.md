@@ -18,5 +18,5 @@ A good option to proceed in that scenario is the use of k-fold cross-validation 
 ### Limited number of hidded layers in the network.
 Another good solution to avoid overfitting is to use a less number of hidden layers. This will produce better results on new unseen data by the ML model.
 
-I used a deep learning technique, Convolutional Neural Networks (CNN), which is primarily used for image and video processing. Video processing is one of the most common applications of CNNs as it is the "eyes and ears" of a Self-Driving Car.
+I used a deep learning technique, Support Vector Machines (SVM), which is primarily used for classification.
 
