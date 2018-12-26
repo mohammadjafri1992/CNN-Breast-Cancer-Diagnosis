@@ -18,5 +18,16 @@ A good option to proceed in that scenario is the use of k-fold cross-validation 
 ### Limited number of hidded layers in the network.
 Another good solution to avoid overfitting is to use a less number of hidden layers. This will produce better results on new unseen data by the ML model.
 
-I used a deep learning technique, Support Vector Machines (SVM), which is primarily used for classification.
+I used a deep learning technique, Support Vector Machines (SVM), which is primarily used for this type of binary classification problem.
+
+## Dataset overview
+Our dataset is small. 
+  Total instances: 569
+  Malignant: 212/569 
+  Benign: 357/569
+  Input features : 30
+  Target classes: 2
+  
+
+  
 
