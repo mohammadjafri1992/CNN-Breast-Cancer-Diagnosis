@@ -22,11 +22,16 @@ I used a deep learning technique, Support Vector Machines (SVM), which is primar
 
 ## Dataset overview
 Our dataset is small. 
-  Total instances: 569
-  Malignant: 212/569 
-  Benign: 357/569
-  Input features : 30
-  Target classes: 2
+
+Total instances: 569
+Malignant: 212/569
+Benign: 357/569
+Input features : 30
+Target classes: 2
+
+
+
+
   
 
   
