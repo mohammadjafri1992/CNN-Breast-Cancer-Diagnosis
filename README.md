@@ -21,13 +21,14 @@ Another good solution to avoid overfitting is to use a less number of hidden lay
 I used a deep learning technique, Support Vector Machines (SVM), which is primarily used for this type of binary classification problem.
 
 ## Dataset overview
-Our dataset is small. 
+Our dataset is small with the following basic description. This dataset is a copy of UCI ML Breast cancer Wisconsin (Diagnostic) dataset.
 
 Total instances: 569
 Malignant: 212/569
 Benign: 357/569
 Input features : 30
 Target classes: 2
+
 
 
 
