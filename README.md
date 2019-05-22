@@ -35,7 +35,8 @@ Benign: 357/569
 Input features : 30
 Target classes: 2
 
-
+## Final Thoughts
+A Jupyter notebook is attached in the files. Please take a look at it for more detailed explanation.
 
 
 
